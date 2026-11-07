@@ -1,0 +1,4 @@
+node_modules/
+.env
+config/articulation-app-ff6e7-firebase-adminsdk-fbsvc-a1caa99180.json
+uploads/
